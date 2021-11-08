@@ -1,6 +1,6 @@
 ## Olá! eu sou RaissaDev, Desenvolvedora Full-Stack & Mobile. 👋
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RaissaDev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raissadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissadev&layout=compact&theme=dracula&bg_color=#fff"/>
