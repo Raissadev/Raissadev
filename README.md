@@ -21,6 +21,7 @@
    <img alt="git" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img alt="firebase" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+   <img alt="bash" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
    <img align="right" width="130" height="130" style="border-radius:50px;" src="https://user-images.githubusercontent.com/82960240/139607128-1c6da43d-5c91-4c6d-a2c4-9e0ec23e7d7d.png" />
 </div>
    
