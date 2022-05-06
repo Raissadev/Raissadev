@@ -1,4 +1,4 @@
-## Olá! eu sou RaissaDev, Desenvolvedora Full-Stack & Mobile. 👋
+## Hi! my name is Raissa, software developer. 👋
 
 <div align="left">
   <a href="https://github.com/RaissaDev">
