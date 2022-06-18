@@ -13,8 +13,8 @@
    <img alt="php" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img alt="python" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img alt="c" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img alt="c" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img alt="typescript" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img alt="node" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
    <img alt="docker" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
    <img alt="linux" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
    <img alt="laravel" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
@@ -23,7 +23,8 @@
    <img alt="mysql" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img alt="firebase" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
    <img alt="bash" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img align="right" width="130" height="130" style="border-radius:50px;" src="https://user-images.githubusercontent.com/82960240/139607128-1c6da43d-5c91-4c6d-a2c4-9e0ec23e7d7d.png" />
+   <img alt="ssh" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
+  <img align="right" width="130" height="130" style="border-radius:50px;" src="https://user-images.githubusercontent.com/82960240/139607128-1c6da43d-5c91-4c6d-a2c4-9e0ec23e7d7d.png" />
 </div>
    
 ##
