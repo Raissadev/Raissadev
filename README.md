@@ -13,7 +13,8 @@
    <img alt="php" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img alt="python" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img alt="c" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img alt="cpp" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+   <img alt="c" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
    <img alt="docker" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
    <img alt="linux" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
    <img alt="laravel" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
