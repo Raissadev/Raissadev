@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://github.com/RaissaDev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raissadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissadev&hide=css,html,blade,less&layout=compact&theme=dracula&bg_color=#fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raissadev&hide=css,html,blade,less,javascript&exclude_repo=NFTs,Chat,Movies,landingPageyDashboard,News_Portal_witch_Dashboard,landing-page_mvc,Real_Estate_Portal,landing-page,Delivery,Climate,Tennis_Ecommerce,DeliveryFood,News_Portal,Ecommerce_Games,Rede_Social,Editor_Image,Social_Network&layout=compact&theme=dracula&bg_color=#fff"/>
 </div>
 
 <div style="display: block"><br>
