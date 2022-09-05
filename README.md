@@ -1,4 +1,4 @@
-## Hi! my name is Raissa, software developer. 👋
+## Hi! My name is Raissa, software developer. 👋
 
 <div align="left">
   <a href="https://github.com/RaissaDev">
